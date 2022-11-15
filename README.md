@@ -1,2 +1,2 @@
 ### Spotify
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/playlist/51WoUqwDWLCKad6gQrtxg0?si=a2a016b07f5d41a0)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/5wwPdWKbDEiybmWkZqsGGn?si=b6d6ac041c25427b)
