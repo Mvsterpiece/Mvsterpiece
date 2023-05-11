@@ -1,8 +1,10 @@
-![Header](https://github.com/Mvsterpiece/Mvsterpiece/blob/main/Skyline.gif)
+<div style="width:500px; height:200px;">
+  <img src="https://github.com/Mvsterpiece/Mvsterpiece/blob/main/Skyline.gif" style="width:100%; height:100%;" alt="Header">
+</div>
 
 
 
-<a href=#><img src="contributions.svg" width="100" height="150"></a>
+<a href=#><img src="contributions.svg"></a>
 
 
 
