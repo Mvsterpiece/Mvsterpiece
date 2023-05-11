@@ -1,5 +1,5 @@
-<div style="width:500px; height:200px;">
-  <img src="https://github.com/Mvsterpiece/Mvsterpiece/blob/main/Skyline.gif" style="width:100%; height:100%;" alt="Header">
+<div style="text-align:center;">
+  <img src="https://github.com/Mvsterpiece/Mvsterpiece/blob/main/Skyline.gif" style="vertical-align:middle;" alt="Header">
 </div>
 
 
