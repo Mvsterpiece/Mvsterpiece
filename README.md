@@ -2,7 +2,7 @@
 
 
 
-<a href=#><img src="contributions.svg"></a>
+<a href=#><img src="contributions.svg" width="100" height="150"></a>
 
 
 
