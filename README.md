@@ -3,8 +3,13 @@
 </div>
 
 
-
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mvsterpiece/count.svg" style="color: white;"/>
+  <img src="https://profile-counter.glitch.me/mvsterpiece/count.svg" style="color: white;">
+  <style>
+    /* Target the specific elements inside the SVG and change their fill color to white */
+    img[src*="profile-counter.glitch.me/mvsterpiece/count.svg"] text {
+      fill: white;
+    }
+  </style>
 </p>
